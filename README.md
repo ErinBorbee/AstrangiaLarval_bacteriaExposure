@@ -6,15 +6,18 @@ Borbee, E.M., Changsut, I.C., Bernabe, K., Schickle, A., Nelson, D., Sharp, K.H.
 
 
 ## Contents
-1. Larval_TagSeq_Processing.ipynb
+#### 1. Larval_TagSeq_Processing.ipynb
 
    Jupyter notebook containing the code used for processing TagSeq reads in preparation for statistical analyses. Read processing was done based on Dr. Mikhail Matz's protocol found on his GitHub page (https://github.com/z0on/tag-based_RNAseq). 
-3. Differential_Expression_Analysis.ipynb
+   
+#### 2. Differential_Expression_Analysis.ipynb
 
    Jupyter notebook containing R code and output for the differential expression analysis using DESeq2. This notebook contains code used for generating Figures 1-3.
-5. Gene_ontology_enrichment_analysis.ipynb
+   
+#### 3. Gene_ontology_enrichment_analysis.ipynb
 
    Jupyter notebook containing the R code and output for gene ontology Mann-Whitney U (GO MWU) enrichment analysis. This code uses the functions from Dr. Mikhail Matz's GitHub (https://github.com/z0on/GO_MWU). This notebook contains code use to generate Figure 4.
-7. WGCNA_analysis.ipynb
+   
+#### 4. WGCNA_analysis.ipynb
 
    Jupyter notebook containing code and output for the WGCNA analysis. The first portion of the code focuses on network construction and the second part of the code uses stringDB to calculate functional enrichment in the modules generated in the network. This notebook contains the code used to generate Figures 5-6 and S1-S6.
