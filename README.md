@@ -26,6 +26,6 @@ This directory contains PNG files of each figure in the manuscript along with se
 
    Jupyter notebook containing the R code and output for gene ontology Mann-Whitney U (GO MWU) enrichment analysis. This code uses the functions from Dr. Mikhail Matz's GitHub (https://github.com/z0on/GO_MWU). This notebook contains code use to generate Figure 4.
    
-#### 5. WGCNA_analysis.ipynb
+#### 6. WGCNA_analysis.ipynb
 
    Jupyter notebook containing code and output for the WGCNA analysis. The first portion of the code focuses on network construction and the second part of the code uses stringDB to calculate functional enrichment in the modules generated in the network. This notebook contains the code used to generate Figures 5-6 and S1-S6.
