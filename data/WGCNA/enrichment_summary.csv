@@ -1,0 +1,385 @@
+category,group,module,value
+transport,protein transport,salmon,0
+transport,protein transport,sienna3,1
+transport,protein transport,turquoise,1
+transport,protein transport,darkred,0
+transport,protein transport,darkmagenta,0
+transport,protein transport,skyblue,0
+transport,protein transport,white,0
+transport,protein transport,green,0
+transport,protein transport,violet,0
+transport,protein transport,steelblue,0
+transport,protein transport,royalblue,0
+transport,protein transport,pink,0
+transport,nucleic acid transport,salmon,0
+transport,nucleic acid transport,sienna3,0
+transport,nucleic acid transport,turquoise,1
+transport,nucleic acid transport,darkred,0
+transport,nucleic acid transport,darkmagenta,0
+transport,nucleic acid transport,skyblue,0
+transport,nucleic acid transport,white,0
+transport,nucleic acid transport,green,0
+transport,nucleic acid transport,violet,0
+transport,nucleic acid transport,steelblue,0
+transport,nucleic acid transport,royalblue,0
+transport,nucleic acid transport,pink,0
+transport,vacuolar transport,salmon,0
+transport,vacuolar transport,sienna3,0
+transport,vacuolar transport,turquoise,1
+transport,vacuolar transport,darkred,0
+transport,vacuolar transport,darkmagenta,0
+transport,vacuolar transport,skyblue,0
+transport,vacuolar transport,white,0
+transport,vacuolar transport,green,0
+transport,vacuolar transport,violet,0
+transport,vacuolar transport,steelblue,0
+transport,vacuolar transport,royalblue,0
+transport,vacuolar transport,pink,0
+transport,cytosolic transport,salmon,0
+transport,cytosolic transport,sienna3,0
+transport,cytosolic transport,turquoise,1
+transport,cytosolic transport,darkred,0
+transport,cytosolic transport,darkmagenta,0
+transport,cytosolic transport,skyblue,0
+transport,cytosolic transport,white,0
+transport,cytosolic transport,green,0
+transport,cytosolic transport,violet,0
+transport,cytosolic transport,steelblue,0
+transport,cytosolic transport,royalblue,0
+transport,cytosolic transport,pink,0
+transport,organic substance transport,salmon,0
+transport,organic substance transport,sienna3,0
+transport,organic substance transport,turquoise,1
+transport,organic substance transport,darkred,0
+transport,organic substance transport,darkmagenta,0
+transport,organic substance transport,skyblue,0
+transport,organic substance transport,white,0
+transport,organic substance transport,green,0
+transport,organic substance transport,violet,0
+transport,organic substance transport,steelblue,0
+transport,organic substance transport,royalblue,0
+transport,organic substance transport,pink,0
+transport,ABC-type transporter,salmon,0
+transport,ABC-type transporter,sienna3,0
+transport,ABC-type transporter,turquoise,0
+transport,ABC-type transporter,darkred,0
+transport,ABC-type transporter,darkmagenta,0
+transport,ABC-type transporter,skyblue,1
+transport,ABC-type transporter,white,0
+transport,ABC-type transporter,green,0
+transport,ABC-type transporter,violet,0
+transport,ABC-type transporter,steelblue,0
+transport,ABC-type transporter,royalblue,0
+transport,ABC-type transporter,pink,0
+transport,proton symporter activity,salmon,0
+transport,proton symporter activity,sienna3,1
+transport,proton symporter activity,turquoise,0
+transport,proton symporter activity,darkred,0
+transport,proton symporter activity,darkmagenta,0
+transport,proton symporter activity,skyblue,0
+transport,proton symporter activity,white,0
+transport,proton symporter activity,green,0
+transport,proton symporter activity,violet,0
+transport,proton symporter activity,steelblue,0
+transport,proton symporter activity,royalblue,0
+transport,proton symporter activity,pink,0
+transport,transferase activity,salmon,0
+transport,transferase activity,sienna3,0
+transport,transferase activity,turquoise,1
+transport,transferase activity,darkred,1
+transport,transferase activity,darkmagenta,0
+transport,transferase activity,skyblue,0
+transport,transferase activity,white,0
+transport,transferase activity,green,0
+transport,transferase activity,violet,0
+transport,transferase activity,steelblue,0
+transport,transferase activity,royalblue,0
+transport,transferase activity,pink,1
+transport,transmembrane transporter activity,salmon,0
+transport,transmembrane transporter activity,sienna3,1
+transport,transmembrane transporter activity,turquoise,0
+transport,transmembrane transporter activity,darkred,0
+transport,transmembrane transporter activity,darkmagenta,0
+transport,transmembrane transporter activity,skyblue,0
+transport,transmembrane transporter activity,white,0
+transport,transmembrane transporter activity,green,0
+transport,transmembrane transporter activity,violet,0
+transport,transmembrane transporter activity,steelblue,0
+transport,transmembrane transporter activity,royalblue,0
+transport,transmembrane transporter activity,pink,0
+transport,endocytosis,salmon,0
+transport,endocytosis,sienna3,0
+transport,endocytosis,turquoise,0
+transport,endocytosis,darkred,0
+transport,endocytosis,darkmagenta,0
+transport,endocytosis,skyblue,0
+transport,endocytosis,white,0
+transport,endocytosis,green,0
+transport,endocytosis,violet,0
+transport,endocytosis,steelblue,0
+transport,endocytosis,royalblue,1
+transport,endocytosis,pink,0
+immune,UV/radiation stress response,salmon,0
+immune,UV/radiation stress response,sienna3,0
+immune,UV/radiation stress response,turquoise,0
+immune,UV/radiation stress response,darkred,0
+immune,UV/radiation stress response,darkmagenta,0
+immune,UV/radiation stress response,skyblue,0
+immune,UV/radiation stress response,white,0
+immune,UV/radiation stress response,green,1
+immune,UV/radiation stress response,violet,0
+immune,UV/radiation stress response,steelblue,0
+immune,UV/radiation stress response,royalblue,0
+immune,UV/radiation stress response,pink,1
+immune,response to stimulus,salmon,0
+immune,response to stimulus,sienna3,0
+immune,response to stimulus,turquoise,0
+immune,response to stimulus,darkred,0
+immune,response to stimulus,darkmagenta,0
+immune,response to stimulus,skyblue,0
+immune,response to stimulus,white,0
+immune,response to stimulus,green,1
+immune,response to stimulus,violet,0
+immune,response to stimulus,steelblue,0
+immune,response to stimulus,royalblue,1
+immune,response to stimulus,pink,1
+immune,stress response,salmon,0
+immune,stress response,sienna3,0
+immune,stress response,turquoise,1
+immune,stress response,darkred,0
+immune,stress response,darkmagenta,0
+immune,stress response,skyblue,0
+immune,stress response,white,0
+immune,stress response,green,0
+immune,stress response,violet,0
+immune,stress response,steelblue,0
+immune,stress response,royalblue,0
+immune,stress response,pink,0
+immune,response to bacteria,salmon,1
+immune,response to bacteria,sienna3,0
+immune,response to bacteria,turquoise,0
+immune,response to bacteria,darkred,0
+immune,response to bacteria,darkmagenta,0
+immune,response to bacteria,skyblue,1
+immune,response to bacteria,white,0
+immune,response to bacteria,green,0
+immune,response to bacteria,violet,0
+immune,response to bacteria,steelblue,0
+immune,response to bacteria,royalblue,0
+immune,response to bacteria,pink,0
+immune,antioxidant response,salmon,0
+immune,antioxidant response,sienna3,0
+immune,antioxidant response,turquoise,0
+immune,antioxidant response,darkred,0
+immune,antioxidant response,darkmagenta,1
+immune,antioxidant response,skyblue,0
+immune,antioxidant response,white,0
+immune,antioxidant response,green,0
+immune,antioxidant response,violet,0
+immune,antioxidant response,steelblue,0
+immune,antioxidant response,royalblue,0
+immune,antioxidant response,pink,0
+immune,apoptosis,salmon,0
+immune,apoptosis,sienna3,0
+immune,apoptosis,turquoise,0
+immune,apoptosis,darkred,0
+immune,apoptosis,darkmagenta,1
+immune,apoptosis,skyblue,0
+immune,apoptosis,white,0
+immune,apoptosis,green,0
+immune,apoptosis,violet,0
+immune,apoptosis,steelblue,0
+immune,apoptosis,royalblue,0
+immune,apoptosis,pink,0
+immune,inflammation response,salmon,0
+immune,inflammation response,sienna3,0
+immune,inflammation response,turquoise,0
+immune,inflammation response,darkred,0
+immune,inflammation response,darkmagenta,1
+immune,inflammation response,skyblue,0
+immune,inflammation response,white,0
+immune,inflammation response,green,0
+immune,inflammation response,violet,0
+immune,inflammation response,steelblue,0
+immune,inflammation response,royalblue,0
+immune,inflammation response,pink,0
+cell cycle,cell cycle,salmon,0
+cell cycle,cell cycle,sienna3,0
+cell cycle,cell cycle,turquoise,1
+cell cycle,cell cycle,darkred,0
+cell cycle,cell cycle,darkmagenta,0
+cell cycle,cell cycle,skyblue,0
+cell cycle,cell cycle,white,0
+cell cycle,cell cycle,green,0
+cell cycle,cell cycle,violet,0
+cell cycle,cell cycle,steelblue,0
+cell cycle,cell cycle,royalblue,0
+cell cycle,cell cycle,pink,0
+cell cycle,microtubule/spindle formation,salmon,0
+cell cycle,microtubule/spindle formation,sienna3,0
+cell cycle,microtubule/spindle formation,turquoise,0
+cell cycle,microtubule/spindle formation,darkred,0
+cell cycle,microtubule/spindle formation,darkmagenta,0
+cell cycle,microtubule/spindle formation,skyblue,0
+cell cycle,microtubule/spindle formation,white,0
+cell cycle,microtubule/spindle formation,green,0
+cell cycle,microtubule/spindle formation,violet,0
+cell cycle,microtubule/spindle formation,steelblue,0
+cell cycle,microtubule/spindle formation,royalblue,0
+cell cycle,microtubule/spindle formation,pink,1
+ciliary action,cilium assembly,salmon,0
+ciliary action,cilium assembly,sienna3,0
+ciliary action,cilium assembly,turquoise,1
+ciliary action,cilium assembly,darkred,0
+ciliary action,cilium assembly,darkmagenta,0
+ciliary action,cilium assembly,skyblue,0
+ciliary action,cilium assembly,white,0
+ciliary action,cilium assembly,green,0
+ciliary action,cilium assembly,violet,0
+ciliary action,cilium assembly,steelblue,0
+ciliary action,cilium assembly,royalblue,0
+ciliary action,cilium assembly,pink,0
+ciliary action,cilium formation,salmon,0
+ciliary action,cilium formation,sienna3,0
+ciliary action,cilium formation,turquoise,1
+ciliary action,cilium formation,darkred,0
+ciliary action,cilium formation,darkmagenta,0
+ciliary action,cilium formation,skyblue,0
+ciliary action,cilium formation,white,0
+ciliary action,cilium formation,green,0
+ciliary action,cilium formation,violet,0
+ciliary action,cilium formation,steelblue,0
+ciliary action,cilium formation,royalblue,0
+ciliary action,cilium formation,pink,0
+development,anatomical development,salmon,0
+development,anatomical development,sienna3,0
+development,anatomical development,turquoise,1
+development,anatomical development,darkred,0
+development,anatomical development,darkmagenta,0
+development,anatomical development,skyblue,0
+development,anatomical development,white,0
+development,anatomical development,green,0
+development,anatomical development,violet,0
+development,anatomical development,steelblue,0
+development,anatomical development,royalblue,0
+development,anatomical development,pink,1
+development,cellular development,salmon,1
+development,cellular development,sienna3,0
+development,cellular development,turquoise,0
+development,cellular development,darkred,0
+development,cellular development,darkmagenta,0
+development,cellular development,skyblue,0
+development,cellular development,white,0
+development,cellular development,green,0
+development,cellular development,violet,0
+development,cellular development,steelblue,0
+development,cellular development,royalblue,0
+development,cellular development,pink,0
+development,nervous system development,salmon,0
+development,nervous system development,sienna3,0
+development,nervous system development,turquoise,0
+development,nervous system development,darkred,0
+development,nervous system development,darkmagenta,0
+development,nervous system development,skyblue,0
+development,nervous system development,white,0
+development,nervous system development,green,1
+development,nervous system development,violet,0
+development,nervous system development,steelblue,0
+development,nervous system development,royalblue,0
+development,nervous system development,pink,0
+development,reproductive process,salmon,1
+development,reproductive process,sienna3,0
+development,reproductive process,turquoise,0
+development,reproductive process,darkred,0
+development,reproductive process,darkmagenta,0
+development,reproductive process,skyblue,0
+development,reproductive process,white,0
+development,reproductive process,green,0
+development,reproductive process,violet,0
+development,reproductive process,steelblue,0
+development,reproductive process,royalblue,0
+development,reproductive process,pink,0
+development,post-embryonic development,salmon,0
+development,post-embryonic development,sienna3,0
+development,post-embryonic development,turquoise,0
+development,post-embryonic development,darkred,0
+development,post-embryonic development,darkmagenta,0
+development,post-embryonic development,skyblue,0
+development,post-embryonic development,white,0
+development,post-embryonic development,green,0
+development,post-embryonic development,violet,0
+development,post-embryonic development,steelblue,0
+development,post-embryonic development,royalblue,0
+development,post-embryonic development,pink,1
+metabolism,protein metabolism,salmon,1
+metabolism,protein metabolism,sienna3,1
+metabolism,protein metabolism,turquoise,1
+metabolism,protein metabolism,darkred,0
+metabolism,protein metabolism,darkmagenta,1
+metabolism,protein metabolism,skyblue,1
+metabolism,protein metabolism,white,1
+metabolism,protein metabolism,green,1
+metabolism,protein metabolism,violet,0
+metabolism,protein metabolism,steelblue,0
+metabolism,protein metabolism,royalblue,0
+metabolism,protein metabolism,pink,1
+metabolism,cellular metabolism,salmon,1
+metabolism,cellular metabolism,sienna3,0
+metabolism,cellular metabolism,turquoise,1
+metabolism,cellular metabolism,darkred,0
+metabolism,cellular metabolism,darkmagenta,1
+metabolism,cellular metabolism,skyblue,0
+metabolism,cellular metabolism,white,0
+metabolism,cellular metabolism,green,0
+metabolism,cellular metabolism,violet,0
+metabolism,cellular metabolism,steelblue,0
+metabolism,cellular metabolism,royalblue,0
+metabolism,cellular metabolism,pink,1
+metabolism,compound metabolism,salmon,0
+metabolism,compound metabolism,sienna3,1
+metabolism,compound metabolism,turquoise,1
+metabolism,compound metabolism,darkred,0
+metabolism,compound metabolism,darkmagenta,0
+metabolism,compound metabolism,skyblue,0
+metabolism,compound metabolism,white,0
+metabolism,compound metabolism,green,1
+metabolism,compound metabolism,violet,0
+metabolism,compound metabolism,steelblue,0
+metabolism,compound metabolism,royalblue,0
+metabolism,compound metabolism,pink,1
+metabolism,nucleic acid metabolism,salmon,0
+metabolism,nucleic acid metabolism,sienna3,0
+metabolism,nucleic acid metabolism,turquoise,1
+metabolism,nucleic acid metabolism,darkred,0
+metabolism,nucleic acid metabolism,darkmagenta,0
+metabolism,nucleic acid metabolism,skyblue,0
+metabolism,nucleic acid metabolism,white,0
+metabolism,nucleic acid metabolism,green,0
+metabolism,nucleic acid metabolism,violet,0
+metabolism,nucleic acid metabolism,steelblue,0
+metabolism,nucleic acid metabolism,royalblue,0
+metabolism,nucleic acid metabolism,pink,0
+metabolism,macromolecule metabolism,salmon,1
+metabolism,macromolecule metabolism,sienna3,0
+metabolism,macromolecule metabolism,turquoise,1
+metabolism,macromolecule metabolism,darkred,0
+metabolism,macromolecule metabolism,darkmagenta,0
+metabolism,macromolecule metabolism,skyblue,0
+metabolism,macromolecule metabolism,white,0
+metabolism,macromolecule metabolism,green,1
+metabolism,macromolecule metabolism,violet,0
+metabolism,macromolecule metabolism,steelblue,0
+metabolism,macromolecule metabolism,royalblue,0
+metabolism,macromolecule metabolism,pink,0
+metabolism,fatty acid metabolism,salmon,0
+metabolism,fatty acid metabolism,sienna3,1
+metabolism,fatty acid metabolism,turquoise,1
+metabolism,fatty acid metabolism,darkred,0
+metabolism,fatty acid metabolism,darkmagenta,0
+metabolism,fatty acid metabolism,skyblue,0
+metabolism,fatty acid metabolism,white,1
+metabolism,fatty acid metabolism,green,1
+metabolism,fatty acid metabolism,violet,0
+metabolism,fatty acid metabolism,steelblue,0
+metabolism,fatty acid metabolism,royalblue,0
+metabolism,fatty acid metabolism,pink,0
