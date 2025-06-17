@@ -14,15 +14,15 @@ This directory contains the input data and metadata files sorted by analysis (i.
 
 This directory contains PNG files of each figure in the manuscript along with separate R code for generating the figures. The one exception is the code for Figure 5 and all the supplemental figures which are contained in the WGCNA jupyter notebook due to the figures involving multiple programs and analysis steps in order to make them.
 
-#### 2. Larval_TagSeq_Processing.ipynb
+#### 3. Larval_TagSeq_Processing.ipynb
 
    Jupyter notebook containing the code used for processing TagSeq reads in preparation for statistical analyses. Read processing was done based on Dr. Mikhail Matz's protocol found on his GitHub page (https://github.com/z0on/tag-based_RNAseq). 
    
-#### 3. Differential_Expression_Analysis.ipynb
+#### 4. Differential_Expression_Analysis.ipynb
 
    Jupyter notebook containing R code and output for the differential expression analysis using DESeq2. This notebook contains code used for generating Figures 1-3.
    
-#### 4. Gene_ontology_enrichment_analysis.ipynb
+#### 5. Gene_ontology_enrichment_analysis.ipynb
 
    Jupyter notebook containing the R code and output for gene ontology Mann-Whitney U (GO MWU) enrichment analysis. This code uses the functions from Dr. Mikhail Matz's GitHub (https://github.com/z0on/GO_MWU). This notebook contains code use to generate Figure 4.
    
