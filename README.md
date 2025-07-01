@@ -2,7 +2,7 @@
 This repository contains code and data files for a project looking at the effects of bacterial exposure on *Astrangia poculata* larvae using transcriptomics. In this experiment, *A. poculata* larvae were exposed to a control, a pathogen (*Vibrio corallilyticus* - RE22), or a probiotic (*Phaeobacter inhibens* - S4). We then used TagSeq methods to sequence RNA and characterize gene expression from larvae in each treatment. We used DESeq2 to evaluate differential expression of transcripts across treatments and also used gene ontology enrichment analysis to identify broad biological processes enriched or depleted in each of our treatments. The last analysis included in this repository is a weighted gene correlation network analysis (WGCNA) which allowed us to look at transcripts with similar expression profiles and correlate them with our treatments to identify associations between transcript expression and treatment. 
 
 ## Citation
-Borbee, E.M., Changsut, I.C., Bernabe, K., Schickle, A., Nelson, D., Sharp, K.H., and Fuess, L.E. (2025) Coral larvae have unique transcriptomic responses to pathogenic and probiotic bacteria. *In prep*
+Borbee, E.M., Changsut, I.C., Bernabe, K., Schickle, A., Nelson, D., Sharp, K.H., and Fuess, L.E. (2025) Coral larvae have unique transcriptomic responses to pathogenic and probiotic bacteria. *In submission*
 
 
 ## Contents
